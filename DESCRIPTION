@@ -2,12 +2,12 @@ Package: Design
 Title: Performs experimental designs on a dataset.
 Version: 0.0.0.9000
 Authors@R: 
-    c(person("Fahim", "Muntasir", , "fmuntasir28@isrt.ac.bd", role = c("Wrote the LSD function", "created the package"),
-           comment = c(ORCID = "YOUR-ORCID-ID")),
-      person("Rakibul", "Haque", ,"mrhaque28@isrt.ac.bd", role = c("Wrote the BIBD function", "maintained the package") ))
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This package was written to perform the proper experimental designs on a given dataset. This package includes four main functions for four main experimental designs . CRD for complete randomized design, RCBD for Randomized complete block design, LSD for Latin square design, BIBD for Balanced incomplete block design.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.0
+
