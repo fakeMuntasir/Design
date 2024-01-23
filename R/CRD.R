@@ -14,6 +14,7 @@
 #' 5. Limits of the Bonferroni's test.
 #'
 #' @export
+#' @names crd
 #'
 #' @examples
 
