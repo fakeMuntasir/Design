@@ -9,7 +9,8 @@
 
 #' @export
 #'
-#' @examples
+#' @examples rcbd(data = #Dataset as tibble / dataframe, alp = # significance level)
+#' names rcbd
 
 library(tidyverse)
 
